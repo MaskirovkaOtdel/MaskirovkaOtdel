@@ -123,15 +123,15 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maskirovkaotdel&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Top Languages" height="205px" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=MaskirovkaOtdel&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_empty=trueusername=MaskirovkaOtdel&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Top Languages" height="205px" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=maskirovkaotdel&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" height="205px" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MaskirovkaOtdel&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" height="205px" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=maskirovkaotdel&theme=tokyonight" alt="GitHub Streak" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaskirovkaOtdel&theme=tokyonight" alt="GitHub Streak" width="100%" />
     </td>
   </tr>
 </table>
