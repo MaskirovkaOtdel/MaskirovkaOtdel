@@ -9,7 +9,9 @@
 
 ### 💫 About Me
 
-- 🔭 **Current Focus:** Working on **[TerafyingByte](https://github.com/SpyrosVenetis/TerafyingByte)**
+- 🔭 **Current Focus:** Working on **[TerafyingByte](https://github.com/SpyrosVenetis/TerafyingByte)**,
+**[CrypticMechanic](https://github.com/MaskirovkaOtdel/CrypticMechanic)**,
+**[CoreDeck](https://github.com/MaskirovkaOtdel/CoreDeck)**
 - 🌱 **Learning:** Expanding my knowledge across advanced frameworks and systems architecture (If you expected someone along the lines of Linus Torvalds, Jeff Dean, John Carmack, Fabrice Bellard, Donald Knuth, yes you're bored, Gennady "tourist" Korotkevich or Ken Thompson I apologise!).
 - 💬 **Let's Chat About:** Computer Science, Software Engineering best practices, and Hardware.
 - ⚡ **Hot Take:** AI is a permanent utility that will fundamentally reshape computing, adaptability is key!
