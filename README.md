@@ -74,7 +74,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=MaskirovkaOtdel&langs_count=8&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" height="205px" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=MaskirovkaOtdel&langs_count=20&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" height="300px" />
     </td>
     <td>
       <img src="https://github-stats-extended.vercel.app/api?username=MaskirovkaOtdel&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" height="205px" />
